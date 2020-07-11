@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![animation](https://github.com/giulioz/giulioz/blob/master/out.gif?raw=true)
+
 I'm a Software Engineer based in Venice, Italy.
 
 - 🔭 I’m currently working on **The Web, 3D Graphics and XR!**
