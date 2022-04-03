@@ -4,7 +4,6 @@
 
 I'm a Software Engineer born in Venice, Italy 🇮🇹 and now based in Graz, Austria 🇦🇹.
 
-- Currently I'm working for **Blackshark.ai** 🦈, developing tools and infra to help the creation of a digital twin of the world using ML
 - I love designing complex and highly performant user interfaces ⚡ using modern tools, such as **React** ⚛️
 - I also enjoy working with Computer Vision and Machine Learning 📸 and reverse engineering of old games 🕹️
 - 📫 How to reach me: **You can write me on [Twitter](https://twitter.com/giuliozausa) 🐦**
